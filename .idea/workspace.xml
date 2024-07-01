@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55b858d3-e932-43c8-8734-c5f1078c0182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/cli/CliFSM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/cli/PlanetChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/cli/states/CliState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/cli/states/IdleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/cli/states/PlanetStatsState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/cli/states/TicketOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/datasource/ConnectionProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/datasource/InitDatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/passenger/PassengerDaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/passenger/PassengerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/ticket/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/ticket/TicketDaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/feature/ticket/TicketEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_passager_ticket_tables.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2h08gZEfNC7lOf1mFE1b1xyRWzi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goit.lecture.Main" />
+      <module name="Space_Transportation_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b858d3-e932-43c8-8734-c5f1078c0182" name="Changes" comment="" />
+      <created>1716719748823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716719748823</updated>
+    </task>
+    <servers />
+  </component>
+</project>
